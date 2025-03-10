@@ -18,6 +18,7 @@ Have an idea to enhance SkyJourney? Submit a feature request by opening an issue
 Share your thoughts and help shape the future of SkyJourney! Any feedback is welcome.  
 
 ## 📬 Stay Connected  
-Follow the latest updates and discussions in this repository. Your feedback helps us make SkyJourney even better!  
+- Join the discussion on **Reddit**: [r/SkyJourney](https://www.reddit.com/r/SkyJourney/)  
+- Follow the latest updates and discussions in this repository.
 
 Thank you for your support! 🚀✨  
